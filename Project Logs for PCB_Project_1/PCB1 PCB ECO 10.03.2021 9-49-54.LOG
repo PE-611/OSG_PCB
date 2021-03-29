@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetR5_1 Pin=X2-31
+Removed Pin From Net: NetName=NetR7_1 Pin=X2-32
+Removed Pin From Net: NetName=NetR9_1 Pin=X2-33
+Removed Pin From Net: NetName=NetR11_1 Pin=X2-35
+Removed Pin From Net: NetName=NetR13_1 Pin=X2-36
+Removed Pin From Net: NetName=NetR15_1 Pin=X2-37
+Removed Pin From Net: NetName=NetR17_1 Pin=X2-38
+Change Component Designator: OldDesignator=X1 NewDesignator=X3
+Change Component Designator: OldDesignator=X3 NewDesignator=X1
+Added Pin To Net: NetName=NetR35_1 Pin=X1-3
+Added Pin To Net: NetName=NetR33_1 Pin=X1-5
+Added Pin To Net: NetName=NetR31_1 Pin=X1-7
+Added Pin To Net: NetName=NetR29_1 Pin=X1-8
+Added Pin To Net: NetName=NetR27_1 Pin=X1-10
+Added Pin To Net: NetName=NetR25_1 Pin=X1-11
+Added Pin To Net: NetName=NetR23_1 Pin=X1-12
+Added Pin To Net: NetName=NetR21_1 Pin=X1-13

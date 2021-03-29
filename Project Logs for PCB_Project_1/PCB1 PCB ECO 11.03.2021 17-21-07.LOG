@@ -1,0 +1,131 @@
+Removed Member From Class: ClassName=CH11 Member=R?15
+Removed Member From Class: ClassName=CH16 Member=R?17
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R7 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R14
+Change Component Designator: OldDesignator=R11 NewDesignator=R18
+Change Component Designator: OldDesignator=R13 NewDesignator=R22
+Change Component Designator: OldDesignator=R15 NewDesignator=R26
+Change Component Designator: OldDesignator=R17 NewDesignator=R30
+Change Component Designator: OldDesignator=R19 NewDesignator=R34
+Change Component Designator: OldDesignator=R21 NewDesignator=R38
+Change Component Designator: OldDesignator=R23 NewDesignator=R42
+Change Component Designator: OldDesignator=R25 NewDesignator=R46
+Change Component Designator: OldDesignator=R27 NewDesignator=R50
+Change Component Designator: OldDesignator=R29 NewDesignator=R54
+Change Component Designator: OldDesignator=R31 NewDesignator=R58
+Change Component Designator: OldDesignator=R33 NewDesignator=R62
+Change Component Designator: OldDesignator=R35 NewDesignator=R66
+Change Component Designator: OldDesignator=R?1 NewDesignator=R4
+Change Component Designator: OldDesignator=R?2 NewDesignator=R8
+Change Component Designator: OldDesignator=R?3 NewDesignator=R12
+Change Component Designator: OldDesignator=R?4 NewDesignator=R16
+Change Component Designator: OldDesignator=R?5 NewDesignator=R20
+Change Component Designator: OldDesignator=R?6 NewDesignator=R24
+Change Component Designator: OldDesignator=R?7 NewDesignator=R28
+Change Component Designator: OldDesignator=R?8 NewDesignator=R32
+Change Component Designator: OldDesignator=R?9 NewDesignator=R36
+Change Component Designator: OldDesignator=R?10 NewDesignator=R40
+Change Component Designator: OldDesignator=R?11 NewDesignator=R44
+Change Component Designator: OldDesignator=R?12 NewDesignator=R48
+Change Component Designator: OldDesignator=R?13 NewDesignator=R52
+Change Component Designator: OldDesignator=R?14 NewDesignator=R56
+Change Component Designator: OldDesignator=R?15 NewDesignator=R60
+Change Component Designator: OldDesignator=R?16 NewDesignator=R64
+Change Component Designator: OldDesignator=R?17 NewDesignator=R5
+Change Component Designator: OldDesignator=R?18 NewDesignator=R7
+Change Component Designator: OldDesignator=R?19 NewDesignator=R9
+Change Component Designator: OldDesignator=R?20 NewDesignator=R11
+Change Component Designator: OldDesignator=R?21 NewDesignator=R13
+Change Component Designator: OldDesignator=R?22 NewDesignator=R15
+Change Component Designator: OldDesignator=R?23 NewDesignator=R17
+Change Component Designator: OldDesignator=R?24 NewDesignator=R19
+Change Component Designator: OldDesignator=R?25 NewDesignator=R21
+Change Component Designator: OldDesignator=R?26 NewDesignator=R23
+Change Component Designator: OldDesignator=R?27 NewDesignator=R25
+Change Component Designator: OldDesignator=R?28 NewDesignator=R27
+Change Component Designator: OldDesignator=R?29 NewDesignator=R29
+Change Component Designator: OldDesignator=R?30 NewDesignator=R31
+Change Component Designator: OldDesignator=R?31 NewDesignator=R33
+Change Component Designator: OldDesignator=R?32 NewDesignator=R35
+Change Component Designator: OldDesignator=R?33 NewDesignator=R37
+Change Component Designator: OldDesignator=R?34 NewDesignator=R39
+Change Component Designator: OldDesignator=R?35 NewDesignator=R41
+Change Component Designator: OldDesignator=R?36 NewDesignator=R43
+Change Component Designator: OldDesignator=R?37 NewDesignator=R45
+Change Component Designator: OldDesignator=R?38 NewDesignator=R47
+Change Component Designator: OldDesignator=R?39 NewDesignator=R49
+Change Component Designator: OldDesignator=R?40 NewDesignator=R51
+Change Component Designator: OldDesignator=R?41 NewDesignator=R53
+Change Component Designator: OldDesignator=R?42 NewDesignator=R55
+Change Component Designator: OldDesignator=R?43 NewDesignator=R57
+Change Component Designator: OldDesignator=R?44 NewDesignator=R59
+Change Component Designator: OldDesignator=R?45 NewDesignator=R61
+Change Component Designator: OldDesignator=R?46 NewDesignator=R63
+Change Component Designator: OldDesignator=R?47 NewDesignator=R65
+Change Component Designator: OldDesignator=R?48 NewDesignator=R67
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR18_1
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR22_2
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR26_1
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR26_2
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR30_1
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR30_2
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR34_1
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR34_2
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR38_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR38_2
+Change Net Name : Old Net Name=NetR23_1 New Net Name=NetR42_1
+Change Net Name : Old Net Name=NetR23_2 New Net Name=NetR42_2
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR46_1
+Change Net Name : Old Net Name=NetR25_2 New Net Name=NetR46_2
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR50_1
+Change Net Name : Old Net Name=NetR27_2 New Net Name=NetR50_2
+Change Net Name : Old Net Name=NetR29_1 New Net Name=NetR54_1
+Change Net Name : Old Net Name=NetR29_2 New Net Name=NetR54_2
+Change Net Name : Old Net Name=NetR31_1 New Net Name=NetR58_1
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR58_2
+Change Net Name : Old Net Name=NetR33_1 New Net Name=NetR62_1
+Change Net Name : Old Net Name=NetR33_2 New Net Name=NetR62_2
+Change Net Name : Old Net Name=NetR35_1 New Net Name=NetR66_1
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR66_2
+Change Net Name : Old Net Name=NetR?17_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR?17_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR?19_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR?19_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR?21_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR?21_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR?23_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetR?23_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR?25_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR?25_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetR?27_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR?27_2 New Net Name=NetR25_2
+Change Net Name : Old Net Name=NetR?29_1 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetR?29_2 New Net Name=NetR29_2
+Change Net Name : Old Net Name=NetR?31_1 New Net Name=NetR33_1
+Change Net Name : Old Net Name=NetR?31_2 New Net Name=NetR33_2
+Change Net Name : Old Net Name=NetR?33_1 New Net Name=NetR37_1
+Change Net Name : Old Net Name=NetR?33_2 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR?35_1 New Net Name=NetR41_1
+Change Net Name : Old Net Name=NetR?35_2 New Net Name=NetR41_2
+Change Net Name : Old Net Name=NetR?37_1 New Net Name=NetR45_1
+Change Net Name : Old Net Name=NetR?37_2 New Net Name=NetR45_2
+Change Net Name : Old Net Name=NetR?39_1 New Net Name=NetR49_1
+Change Net Name : Old Net Name=NetR?39_2 New Net Name=NetR49_2
+Change Net Name : Old Net Name=NetR?41_1 New Net Name=NetR53_1
+Change Net Name : Old Net Name=NetR?41_2 New Net Name=NetR53_2
+Change Net Name : Old Net Name=NetR?43_1 New Net Name=NetR57_1
+Change Net Name : Old Net Name=NetR?43_2 New Net Name=NetR57_2
+Change Net Name : Old Net Name=NetR?45_1 New Net Name=NetR61_1
+Change Net Name : Old Net Name=NetR?45_2 New Net Name=NetR61_2
+Change Net Name : Old Net Name=NetR?47_1 New Net Name=NetR65_1
+Change Net Name : Old Net Name=NetR?47_2 New Net Name=NetR65_2
+Added Member To Class: ClassName=CH16 Member=Component R6 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C

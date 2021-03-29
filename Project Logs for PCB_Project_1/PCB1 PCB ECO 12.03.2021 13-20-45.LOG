@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=VD? NewDesignator=VD1
+Added Member To Class: ClassName=Launch Member=Component R1 (R3) Resistor film, 4k7, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Launch Member=Component R2 (R4) Resistor film, 10k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Launch Member=Component VD1 (VD2) SHF250

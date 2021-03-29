@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=R1-1
+Change Component Designator: OldDesignator=VD1 NewDesignator=VZ1
+Added Component: Designator=VD1(LED: SFH757)
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR3_2 Pin=VD1-1
+Added Pin To Net: NetName=NetC1_2 Pin=VD1-2
+Added Member To Class: ClassName=Launch Member=Component R1 (R3) Resistor film, 4k7, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Launch Member=Component R2 (R4) Resistor film, 10k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Launch Member=Component VD1 (VD2) SHF250
+Added Member To Class: ClassName=Launch Member=Component VZ1 Diode array, 85V, 140mA, 1.1V, 3us, SOT-23, -65...+150°C

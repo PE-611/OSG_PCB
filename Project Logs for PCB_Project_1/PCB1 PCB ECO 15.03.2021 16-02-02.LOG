@@ -1,0 +1,144 @@
+Removed Pin From Net: NetName=NetR6_1 Pin=X2-8
+Removed Pin From Net: NetName=NetR10_1 Pin=X2-10
+Removed Pin From Net: NetName=NetR14_1 Pin=X2-12
+Removed Pin From Net: NetName=NetR18_1 Pin=X2-16
+Removed Pin From Net: NetName=NetR22_1 Pin=X2-18
+Removed Pin From Net: NetName=NetR26_1 Pin=X2-22
+Removed Pin From Net: NetName=NetR30_1 Pin=X2-24
+Removed Pin From Net: NetName=NetR34_1 Pin=X2-26
+Added Component: Designator=X4(CON: KF301-5.0-2P)
+Add component (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-02P-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Terminal connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Terminal connector, 2pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR34_1 Pin=X1-23
+Added Pin To Net: NetName=NetR26_1 Pin=X1-24
+Added Pin To Net: NetName=NetR22_1 Pin=X1-26
+Added Pin To Net: NetName=NetR30_1 Pin=X1-27
+Added Pin To Net: NetName=NetR18_1 Pin=X1-28
+Added Pin To Net: NetName=NetR14_1 Pin=X1-32
+Added Pin To Net: NetName=NetR10_1 Pin=X1-36
+Added Pin To Net: NetName=NetR6_1 Pin=X1-38
+Added Pin To Net: NetName=NetR1_2 Pin=X4-1
+Added Pin To Net: NetName=NetDD1_3 Pin=X4-2
+Added Member To Class: ClassName=CH16 Member=Component C2 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH15 Member=Component C3 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH14 Member=Component C4 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH13 Member=Component C5 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH12 Member=Component C6 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH11 Member=Component C7 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH10 Member=Component C8 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH9 Member=Component C9 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH8 Member=Component C10 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH7 Member=Component C11 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH6 Member=Component C12 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH5 Member=Component C13 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH4 Member=Component C14 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH3 Member=Component C15 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH2 Member=Component C16 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=CH1 Member=Component C17 (C1) Ceramic capacitor, 10?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=Launch Member=Component R1 (R3) Resistor film, 4k7, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Launch Member=Component R2 (R4) Resistor film, 10k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH16 Member=Component R4 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH16 Member=Component R5 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH16 Member=Component R6 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH16 Member=Component R7 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH15 Member=Component R8 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH15 Member=Component R9 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH15 Member=Component R10 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH15 Member=Component R11 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH14 Member=Component R12 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH14 Member=Component R13 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH14 Member=Component R14 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH14 Member=Component R15 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH13 Member=Component R16 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH13 Member=Component R17 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH13 Member=Component R18 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH13 Member=Component R19 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH12 Member=Component R20 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH12 Member=Component R21 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH12 Member=Component R22 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH12 Member=Component R23 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH11 Member=Component R24 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH11 Member=Component R25 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH11 Member=Component R26 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH11 Member=Component R27 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH10 Member=Component R28 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH10 Member=Component R29 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH10 Member=Component R30 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH10 Member=Component R31 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH9 Member=Component R32 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH9 Member=Component R33 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH9 Member=Component R34 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH9 Member=Component R35 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH8 Member=Component R36 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH8 Member=Component R37 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH8 Member=Component R38 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH8 Member=Component R39 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH7 Member=Component R40 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH7 Member=Component R41 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH7 Member=Component R42 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH7 Member=Component R43 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH6 Member=Component R44 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH6 Member=Component R45 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH6 Member=Component R46 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH6 Member=Component R47 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH5 Member=Component R48 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH5 Member=Component R49 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH5 Member=Component R50 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH5 Member=Component R51 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH4 Member=Component R52 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH4 Member=Component R53 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH4 Member=Component R54 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH4 Member=Component R55 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH3 Member=Component R56 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH3 Member=Component R57 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH3 Member=Component R58 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH3 Member=Component R59 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH2 Member=Component R60 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH2 Member=Component R61 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH2 Member=Component R62 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH2 Member=Component R63 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH1 Member=Component R64 (R5) Resistor film, 5R1, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH1 Member=Component R65 (R4) Resistor film, 100R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH1 Member=Component R66 (R2) Resistor film, 10R, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH1 Member=Component R67 (R3) Resistor film, 1k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=CH16 Member=Component VD2 (VD1) SHF757
+Added Member To Class: ClassName=CH15 Member=Component VD3 (VD1) SHF757
+Added Member To Class: ClassName=CH14 Member=Component VD4 (VD1) SHF757
+Added Member To Class: ClassName=CH13 Member=Component VD5 (VD1) SHF757
+Added Member To Class: ClassName=CH12 Member=Component VD6 (VD1) SHF757
+Added Member To Class: ClassName=CH11 Member=Component VD7 (VD1) SHF757
+Added Member To Class: ClassName=CH10 Member=Component VD8 (VD1) SHF757
+Added Member To Class: ClassName=CH9 Member=Component VD9 (VD1) SHF757
+Added Member To Class: ClassName=CH8 Member=Component VD10 (VD1) SHF757
+Added Member To Class: ClassName=CH7 Member=Component VD11 (VD1) SHF757
+Added Member To Class: ClassName=CH6 Member=Component VD12 (VD1) SHF757
+Added Member To Class: ClassName=CH5 Member=Component VD13 (VD1) SHF757
+Added Member To Class: ClassName=CH4 Member=Component VD14 (VD1) SHF757
+Added Member To Class: ClassName=CH3 Member=Component VD15 (VD1) SHF757
+Added Member To Class: ClassName=CH2 Member=Component VD16 (VD1) SHF757
+Added Member To Class: ClassName=CH1 Member=Component VD17 (VD1) SHF757
+Added Member To Class: ClassName=CH16 Member=Component VT2 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH15 Member=Component VT3 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH14 Member=Component VT4 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH13 Member=Component VT5 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH12 Member=Component VT6 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH11 Member=Component VT7 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH10 Member=Component VT8 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH9 Member=Component VT9 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH8 Member=Component VT10 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH7 Member=Component VT11 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH6 Member=Component VT12 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH5 Member=Component VT13 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH4 Member=Component VT14 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH3 Member=Component VT15 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH2 Member=Component VT16 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=CH1 Member=Component VT17 (VT1) MOSFET N-channel transistor, 80V, 7A, 9.1nC, 2.5W, 34mOhm, 756pF, 8-TDSON, -55...+150°C
+Added Member To Class: ClassName=Launch Member=Component X4 Terminal connector, 2pin, 3.5mm, 300VAC, 10A

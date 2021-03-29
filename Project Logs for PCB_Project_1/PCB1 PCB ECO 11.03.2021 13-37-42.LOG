@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetR19_1 Pin=X3-3
+Removed Pin From Net: NetName=NetR17_1 Pin=X3-5
+Removed Pin From Net: NetName=NetR15_1 Pin=X3-7
+Removed Pin From Net: NetName=NetR13_1 Pin=X3-11
+Removed Pin From Net: NetName=NetR11_1 Pin=X3-13
+Removed Pin From Net: NetName=NetR9_1 Pin=X3-15
+Removed Pin From Net: NetName=NetR7_1 Pin=X3-19
+Removed Pin From Net: NetName=NetR5_1 Pin=X3-21
+Added Pin To Net: NetName=NetR19_1 Pin=X3-8
+Added Pin To Net: NetName=NetR17_1 Pin=X3-10
+Added Pin To Net: NetName=NetR15_1 Pin=X3-12
+Added Pin To Net: NetName=NetR13_1 Pin=X3-16
+Added Pin To Net: NetName=NetR11_1 Pin=X3-18
+Added Pin To Net: NetName=NetR9_1 Pin=X3-22
+Added Pin To Net: NetName=NetR7_1 Pin=X3-24
+Added Pin To Net: NetName=NetR5_1 Pin=X3-26
+Added Member To Class: ClassName=CORE Member=Component X3 Connector, 20pin, 2.54mm, 500VAC, 3A

@@ -1,0 +1,65 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES: 1206 New Footprint=RES: 0805
+Change Component Comment : Designator=R1 Old Comment=Resistor film, 4.7k, ±5%, 1206, 0.25W, -55...+125°C New Comment=Resistor film, 20k, ±5%, 0805, 0.125W, -55...+125°C
+Change component parameters: Designator = "R1" ("R1"); Footprint = "RES: 1206"; UniqueID = "\KYKRPYOD\UAREKUQN" ("\KYKRPYOD\UAREKUQN")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 20k, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(8-SOIC)
+Added Component: Designator=R2(RES: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0805JR-07100RL/311-100ARCT-ND/731185"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0805JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Resistor film, 20k, ±5%, 0805, 0.125W, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=VD?(SOT23)
+Add component (AddParameter): Name = "Current"; Value = "140mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/BAV199-7-F/BAV199-FDICT-ND/1033647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Incorporated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BAV199-7-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "3us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-65...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Diode array"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Diode array, 85V, 140mA, 1.1V, 3us, SOT-23, -65...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "85V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1.1V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=DD1-5
+Added Pin To Net: NetName=NetD1_2 Pin=DD1-6
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D1-1
+Added Pin To Net: NetName=NetC1_2 Pin=D1-5
+Added Pin To Net: NetName=NetC1_2 Pin=DD1-7
+Added Pin To Net: NetName=NetC1_2 Pin=DD1-8
+Added Pin To Net: NetName=NetC1_2 Pin=VD1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetDD1_2 Pin=DD1-2
+Added Pin To Net: NetName=NetDD1_2 Pin=R2-1
+Added Net: Name=NetDD1_2
+Added Pin To Net: NetName=NetDD1_3 Pin=DD1-3
+Added Pin To Net: NetName=NetDD1_3 Pin=VD?-1
+Added Pin To Net: NetName=NetDD1_3 Pin=VD?-2
+Added Pin To Net: NetName=NetDD1_3 Pin=X4-2
+Added Net: Name=NetDD1_3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=VD?-3
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=X4-1
+Added Net: Name=NetR1_2
+Added Member To Class: ClassName=Launch Member=Component DD1 HCPL0600R2
+Added Member To Class: ClassName=Launch Member=Component R1 (R3) Resistor film, 4k7, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Launch Member=Component R2 (R4) Resistor film, 10k, ±5%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Launch Member=Component VD? Diode array, 85V, 140mA, 1.1V, 3us, SOT-23, -65...+150°C

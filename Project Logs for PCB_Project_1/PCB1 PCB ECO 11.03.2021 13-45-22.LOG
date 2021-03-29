@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetD1_4 Pin=X1-8
+Removed Pin From Net: NetName=NetX1_10 Pin=X1-10
+Removed Pin From Net: NetName=NetX1_12 Pin=X1-12
+Added Pin To Net: NetName=NetD1_4 Pin=X1-35
+Added Pin To Net: NetName=NetX1_12 Pin=X1-37
+Added Pin To Net: NetName=NetX1_10 Pin=X1-40
+Change Net Name : Old Net Name=NetX1_10 New Net Name=NetX1_40
+Change Net Name : Old Net Name=NetX1_12 New Net Name=NetX1_37
